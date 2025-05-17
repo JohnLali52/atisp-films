@@ -1,5 +1,0 @@
-print("waallo")
-number = input("Whats going on")
-number23 = input("ahahah")
-print(int(number) + int(number23))
-print("well done")
